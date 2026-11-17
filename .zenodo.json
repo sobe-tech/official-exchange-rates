@@ -1,0 +1,12 @@
+{
+  "title": "Official exchange rates and parallel-market gaps",
+  "upload_type": "dataset",
+  "description": "<p>Central-bank official exchange rates for 25+ countries, each with the bank's own publication date, and for ten countries with a parallel (street) market the gap between an observed real-life indicator and the official rate, rounded in steps (5 points up to 50 %, 10 points up to 200 %, 50 above), with its source and day.</p><p>Live data and methodology: <a href=\"https://fx.sobeinvest.com/for/\">fx.sobeinvest.com/for/</a>, <a href=\"https://fx.sobeinvest.com/for/method/\">methodology</a>. Published by SOBE OÜ (Tallinn, Estonia), the makers of the Currency by SOBE app.</p>",
+  "creators": [{"name": "SOBE OÜ"}],
+  "license": "cc-by-4.0",
+  "keywords": ["exchange rates", "central bank", "official exchange rate", "parallel market", "black market premium", "open data"],
+  "related_identifiers": [
+    {"identifier": "https://fx.sobeinvest.com/for/", "relation": "isSupplementTo", "resource_type": "dataset"},
+    {"identifier": "https://fx.sobeinvest.com/for/method/", "relation": "isDocumentedBy", "resource_type": "publication-other"}
+  ]
+}
