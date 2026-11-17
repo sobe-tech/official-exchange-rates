@@ -1,0 +1,23 @@
+name: Weekly refresh
+on:
+  schedule:
+    - cron: "15 6 * * 1"   # Mondays 06:15 UTC: weekly, like the site's weekly gap view (no daily gap series)
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download the current CSV
+        run: |
+          curl -fsSL https://fx.sobeinvest.com/for/data/official-rates.csv -o data/official-rates.csv
+          head -1 data/official-rates.csv | grep -q '^page,base,code,rate'
+      - name: Commit if changed
+        run: |
+          git config user.name "sobe-data-bot"
+          git config user.email "fx@sobeinvest.com"
+          git add data/official-rates.csv
+          git diff --cached --quiet || git commit -m "Weekly refresh $(date -u +%Y-%m-%d)"
+          git push

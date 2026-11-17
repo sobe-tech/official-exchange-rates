@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Official exchange rates and parallel-market gaps"
+abstract: "Central-bank official exchange rates with the bank's own date, and for countries with a parallel market the rounded gap between an observed real-life indicator and the official rate, with its source. Published by SOBE OÜ (Currency by SOBE)."
+authors:
+  - name: "SOBE OÜ"
+    city: "Tallinn"
+    country: "EE"
+    website: "https://sobeinvest.com"
+license: CC-BY-4.0
+url: "https://fx.sobeinvest.com/for/"
+repository-code: "https://github.com/sobe-tech/official-exchange-rates"
+keywords:
+  - exchange rates
+  - central bank
+  - official exchange rate
+  - parallel market
+  - black market premium
+  - open data
