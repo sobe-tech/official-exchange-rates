@@ -8,6 +8,7 @@ authors:
     city: "Tallinn"
     country: "EE"
     website: "https://sobeinvest.com"
+doi: "10.5281/zenodo.24309247"
 license: CC-BY-4.0
 url: "https://fx.sobeinvest.com/for/"
 repository-code: "https://github.com/sobe-tech/official-exchange-rates"

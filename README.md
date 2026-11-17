@@ -1,5 +1,7 @@
 # Official exchange rates and parallel-market gaps
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24309247.svg)](https://doi.org/10.5281/zenodo.24309247)
+
 Central-bank official exchange rates for 25+ countries, each with the bank's own publication date, and — for ten countries
 with a parallel (street) market — the gap between an observed real-life indicator and the official rate, rounded in steps.
 
