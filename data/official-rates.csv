@@ -1,32 +1,32 @@
 page,base,code,rate,rate_kind,bank,bank_date,base_bank_date,own_usd,gap_pct,gap_source,gap_day,gap_fallback,snapshot_utc
-https://fx.sobeinvest.com/es/for/argentina/,USD,ARS,1551.0,official,Central Bank of Argentina,2026-11-16,,yes,5,DolarApi Blue,2026-11-17,no,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/for/bangladesh/,USD,BDT,124.75,official,Bangladesh Bank,2026-11-17,,yes,,,,,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/for/cuba/,USD,CUP,832.0,official,Central Bank of Cuba,2026-11-17,,yes,10,elTOQUE,2026-11-17,no,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/es/for/cuba/,USD,CUP,832.0,official,Central Bank of Cuba,2026-11-17,,yes,10,elTOQUE,2026-11-17,no,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/ar/for/algeria/,EUR,DZD,150.7898,official,Bank of Algeria,2026-11-17,,yes,90,Yadio USDT P2P,2026-11-17,no,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/fr/for/algerie/,EUR,DZD,150.7898,official,Bank of Algeria,2026-11-17,,yes,90,Yadio USDT P2P,2026-11-17,no,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/ar/for/egypt/,USD,EGP,53.6853,official,Central Bank of Egypt,2026-11-16,,yes,,,,,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/for/egypt/,USD,EGP,53.6853,official,Central Bank of Egypt,2026-11-16,,yes,,,,,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/for/ethiopia/,USD,ETB,161.1913,official,National Bank of Ethiopia,2026-11-17,,yes,15,Yadio USDT P2P,2026-11-17,no,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/for/india/,USD,INR,93.5703,official,Reserve Bank of India,2026-11-17,,yes,,,,,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/ar/for/iraq/,USD,IQD,1505.0,official,Central Bank of Iraq,2026-11-12,,yes,15,Yadio USDT P2P,2026-11-17,no,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/for/iraq/,USD,IQD,1505.0,official,Central Bank of Iraq,2026-11-12,,yes,15,Yadio USDT P2P,2026-11-17,no,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/for/kenya/,USD,KES,129.98,official,Central Bank of Kenya,2026-11-17,,yes,,,,,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/ru/for/kyrgyzstan/,RUB,KGS,1.059804,calculated_cross,National Bank of the Kyrgyz Republic,2026-11-18,2026-11-17,yes,,,,,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/ru/for/kazakhstan/,RUB,KZT,5.385733,cross_of_two_banks,National Bank of Kazakhstan,2026-11-17,2026-11-17,yes,,,,,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/ar/for/libya/,USD,LYD,6.4625,official,Central Bank of Libya,2026-11-17,,yes,70,Yadio USDT P2P,2026-11-17,no,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/ar/for/morocco/,EUR,MAD,10.9747,official,Bank Al-Maghrib,2026-11-16,,yes,,,,,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/fr/for/maroc/,EUR,MAD,10.9747,official,Bank Al-Maghrib,2026-11-16,,yes,,,,,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/for/maldives/,USD,MVR,15.42,official,Maldives Monetary Authority,2026-11-17,,yes,50,usdmvr.com,2026-11-17,no,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/for/malawi/,USD,MWK,1734.0118,official,Reserve Bank of Malawi,2026-11-16,,yes,90,Yadio USDT P2P,2026-11-17,no,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/for/nigeria/,USD,NGN,1356.692,official,Central Bank of Nigeria,2026-11-16,,yes,5,Yadio USDT P2P,2026-11-17,no,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/nb/for/norge/,EUR,NOK,10.574,official,Norges Bank,2026-11-16,,yes,,,,,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/for/philippines/,USD,PHP,63.95,official,Bangko Sentral ng Pilipinas,2026-11-17,,yes,,,,,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/for/pakistan/,USD,PKR,276.5719,official,State Bank of Pakistan,2026-11-16,,yes,,,,,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/ru/for/tajikistan/,RUB,TJS,0.11164,cross_of_two_banks,National Bank of Tajikistan,2026-11-17,2026-11-17,yes,,,,,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/ar/for/tunisia/,EUR,TND,3.365,official,Central Bank of Tunisia,2026-11-13,,yes,,,,,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/fr/for/tunisie/,EUR,TND,3.365,official,Central Bank of Tunisia,2026-11-13,,yes,,,,,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/tr/for/turkiye/,EUR,TRY,55.3981,official,Central Bank of Türkiye,2026-11-16,,yes,,,,,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/tr/for/dolar/,USD,TRY,50.3036,official,Central Bank of Türkiye,2026-11-16,,yes,,,,,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/ru/for/uzbekistan/,RUB,UZS,145.71547,cross_of_two_banks,Central Bank of Uzbekistan,2026-11-17,2026-11-17,yes,,,,,2026-11-17T11:00:02Z
-https://fx.sobeinvest.com/es/for/venezuela/,USD,VES,915.7476,official,Central Bank of Venezuela,2026-11-17,,yes,15,Yadio USDT P2P,2026-11-17,no,2026-11-17T11:00:02Z
+https://fx.sobeinvest.com/es/for/argentina/,USD,ARS,1580.0,official,Central Bank of Argentina,2026-11-20,,yes,5,DolarApi Blue,2026-11-23,no,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/for/bangladesh/,USD,BDT,124.75,official,Bangladesh Bank,2026-11-23,,yes,,,,,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/for/cuba/,USD,CUP,848.0,official,Central Bank of Cuba,2026-11-23,,yes,10,elTOQUE,2026-11-23,no,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/es/for/cuba/,USD,CUP,848.0,official,Central Bank of Cuba,2026-11-23,,yes,10,elTOQUE,2026-11-23,no,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/ar/for/algeria/,EUR,DZD,150.4051,official,Bank of Algeria,2026-11-23,,yes,100,Yadio USDT P2P,2026-11-23,no,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/fr/for/algerie/,EUR,DZD,150.4051,official,Bank of Algeria,2026-11-23,,yes,100,Yadio USDT P2P,2026-11-23,no,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/ar/for/egypt/,USD,EGP,54.375,official,Central Bank of Egypt,2026-11-23,,yes,,,,,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/for/egypt/,USD,EGP,54.375,official,Central Bank of Egypt,2026-11-23,,yes,,,,,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/for/ethiopia/,USD,ETB,161.3536,official,National Bank of Ethiopia,2026-11-23,,yes,20,Yadio USDT P2P,2026-11-23,no,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/for/india/,USD,INR,92.7968,official,Reserve Bank of India,2026-11-23,,yes,,,,,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/ar/for/iraq/,USD,IQD,1505.0,official,Central Bank of Iraq,2026-11-22,,yes,15,Yadio USDT P2P,2026-11-23,no,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/for/iraq/,USD,IQD,1505.0,official,Central Bank of Iraq,2026-11-22,,yes,15,Yadio USDT P2P,2026-11-23,no,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/for/kenya/,USD,KES,129.98,official,Central Bank of Kenya,2026-11-23,,yes,,,,,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/ru/for/kyrgyzstan/,RUB,KGS,1.064532,cross_of_two_banks,National Bank of the Kyrgyz Republic,2026-11-24,2026-11-21,yes,,,,,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/ru/for/kazakhstan/,RUB,KZT,5.54019,cross_of_two_banks,National Bank of Kazakhstan,2026-11-24,2026-11-21,yes,,,,,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/ar/for/libya/,USD,LYD,6.4664,official,Central Bank of Libya,2026-11-23,,yes,80,Yadio USDT P2P,2026-11-23,no,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/ar/for/morocco/,EUR,MAD,10.9533,official,Bank Al-Maghrib,2026-11-20,,yes,,,,,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/fr/for/maroc/,EUR,MAD,10.9533,official,Bank Al-Maghrib,2026-11-20,,yes,,,,,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/for/maldives/,USD,MVR,15.42,official,Maldives Monetary Authority,2026-11-23,,yes,60,usdmvr.com,2026-11-23,no,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/for/malawi/,USD,MWK,1734.0118,official,Reserve Bank of Malawi,2026-11-23,,yes,70,Yadio USDT P2P,2026-11-23,no,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/for/nigeria/,USD,NGN,1389.2335,official,Central Bank of Nigeria,2026-11-20,,yes,,,,,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/nb/for/norge/,EUR,NOK,10.7285,official,Norges Bank,2026-11-23,,yes,,,,,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/for/philippines/,USD,PHP,63.8,official,Bangko Sentral ng Pilipinas,2026-11-23,,yes,,,,,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/for/pakistan/,USD,PKR,276.5027,official,State Bank of Pakistan,2026-11-23,,yes,,,,,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/ru/for/tajikistan/,RUB,TJS,0.112249,calculated_cross,National Bank of Tajikistan,2026-11-23,2026-11-21,yes,,,,,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/ar/for/tunisia/,EUR,TND,3.3842,official,Central Bank of Tunisia,2026-11-20,,yes,,,,,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/fr/for/tunisie/,EUR,TND,3.3842,official,Central Bank of Tunisia,2026-11-20,,yes,,,,,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/tr/for/turkiye/,EUR,TRY,55.4656,official,Central Bank of Türkiye,2026-11-23,,yes,,,,,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/tr/for/dolar/,USD,TRY,50.5116,official,Central Bank of Türkiye,2026-11-23,,yes,,,,,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/ru/for/uzbekistan/,RUB,UZS,146.055716,cross_of_two_banks,Central Bank of Uzbekistan,2026-11-21,2026-11-21,yes,,,,,2026-11-23T17:00:02Z
+https://fx.sobeinvest.com/es/for/venezuela/,USD,VES,919.8227,official,Central Bank of Venezuela,2026-11-24,,yes,20,Yadio USDT P2P,2026-11-23,no,2026-11-23T17:00:02Z
